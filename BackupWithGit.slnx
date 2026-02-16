@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BackupWithGit.Tests/BackupWithGit.Tests.csproj" />
+  <Project Path="BackupWithGit/BackupWithGit.csproj" />
+</Solution>

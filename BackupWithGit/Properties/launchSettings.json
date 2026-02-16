@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BackupWithGit": {
+      "commandName": "Project",
+      "commandLineArgs": "",
+      "workingDirectory": ""
+    }
+  }
+}
